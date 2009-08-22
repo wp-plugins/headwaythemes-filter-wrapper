@@ -3,7 +3,7 @@
 Plugin Name: headwaythemes-filter-wrapper
 Plugin URI: http://www.ramgad.com/hfw/
 Description: Possibility for non-programmers to use some filters through the setting's panel of this plugini. Works only with the headwaythemes.com!
-Version: 1.0.1
+Version: 1.0.2
 Author: Jeannot Muller
 Author URI: http://www.ramgad.com/
 Min WP Version: 2.1
