@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: headwaythemes-filter-wrapper
-Plugin URI: http://www.ramgad.com/hfw/
+Plugin URI: http://www.ramgad.com/board/topic/37-plugins-fssw-fpw-hfw/
 Description: Possibility for non-programmers to use some filters through the setting's panel of this plugini. Works only with the headwaythemes.com!
-Version: 1.0.2
+Version: 1.0.3
 Author: Jeannot Muller
 Author URI: http://www.ramgad.com/
 Min WP Version: 2.1
-Max WP Version: 2.9
+Max WP Version: 2.9.1
 */
 
 // Update routines
