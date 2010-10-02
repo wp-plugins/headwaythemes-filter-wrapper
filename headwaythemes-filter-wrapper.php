@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: headwaythemes-filter-wrapper
-Plugin URI: http://www.ramgad.com/wordpress-plugins/
+Plugin URI: http://www.ramgad.com/software/wordpress/wordpress-plugins/
 Description: Possibility for non-programmers to use some filters through the setting's panel of this plugini. Works only with the headwaythemes.com!
-Version: 1.0.4
+Version: 1.0.5
 Author: Jeannot Muller
 Author URI: http://www.ramgad.com/
 Min WP Version: 2.1
@@ -62,7 +62,7 @@ function hfw_description_option_page() {
 	  </div>
 	</div>
 	<p style="text-align:justify;">After saving these changes will be active immediately on your <a href="http://headwaythemes.com/" target="_blank">Headwaythemes</a>. Please be aware that your need a DEVELOPER LICENSE to overwrite the original link back to headway themes! Respect Copyright!
-	<p style="text-align:justify;">If you have problems with HFW (headways-filter-wrapper), please feel free to contact me: <a href="mailto:jeannot.muller@ramgad.com">jeannot.muller@ramgad.com</a></p>
+	<p style="text-align:justify;">If you have problems with HFW (headways-filter-wrapper), please feel free to drop a comment at: <a href="http://www.ramgad.com/software/wordpress/wordpress-plugins/">http://www.ramgad.com/software/wordpress/wordpress-plugins/</a></p>
 
 <?php
 
