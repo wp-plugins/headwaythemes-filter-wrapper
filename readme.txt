@@ -4,7 +4,7 @@ Donate link: http://www.ramgad.com/
 Tags: headway,headway themes,headwaythemes,wrapper,filters,hooks
 Requires at least: 2.5.0
 Tested up to: 3.0.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 
 Possibility for non-programmers to use some filters through the setting's panel of this plugin. 
 
